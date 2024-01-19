@@ -1,7 +1,7 @@
 # jpa02-cydthe
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-cydthe
-Deployed at: https://jpa02-cydthe.dokku-15.cs.ucsb.edu
+Deployed at: http://jpa02-cydthe.dokku-15.cs.ucsb.edu
 
 # About this repo
 
